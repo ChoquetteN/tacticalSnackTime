@@ -1,0 +1,44 @@
+{
+
+  "Races": [
+
+    {
+      "MoveSpeed": 1,
+      "TurnOrder": 1,
+      "Race": "Kobold",
+      "Name": "Kupo",
+      "DefaultPay":  9,
+      "id": 0
+    },
+
+    {
+      "MoveSpeed": 2,
+      "TurnOrder": 3,
+      "Race": "Theif",
+      "Name": "Mage",
+      "DefaultPay": 12,
+      "id": 1
+    },
+
+    {
+      "MoveSpeed": 2,
+      "TurnOrder": 2,
+      "Race": "Ghost",
+      "Name": "nu",
+      "DefaultPay": 11,
+      "id": 2
+    },
+
+    {
+      "MoveSpeed": 2,
+      "TurnOrder": 3,
+      "Race": "Dragon",
+      "Name": "bangaa",
+      "DefaultPay": 10,
+      "id": 3
+    }
+
+
+
+  ]
+}

@@ -1,0 +1,15 @@
+{
+
+  "Map":
+  [
+    "P P P P P P P E",
+    "P W G1 P P G0 W P",
+    "P W P P P P W P",
+    "P P P P P P P P",
+    "o W W R W W W o",
+    "o o o o o o o o",
+    "o o o o o o o o",
+    "D o o o o o o o"
+  ]
+
+}
